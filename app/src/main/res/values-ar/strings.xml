@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">OM IDM</string>
+    <string name="downloads_tab">التنزيلات</string>
+    <string name="torrents_tab">تنزيل التورنت</string>
+    <string name="browser_tab">المتصفح</string>
+    <string name="settings_tab">الإعدادات</string>
+    <string name="add_download">إضافة تنزيل</string>
+    <string name="pause_all">إيقاف الكل</string>
+    <string name="resume_all">استئناف الكل</string>
+    <string name="clear_completed">مسح المكتمل</string>
+    <string name="search_downloads">البحث في التنزيلات...</string>
+    <string name="all_categories">الكل</string>
+    <string name="category_video">فيديوهات</string>
+    <string name="category_audio">صوتيات</string>
+    <string name="category_documents">مستندات</string>
+    <string name="category_archives">ملفات مضغوطة</string>
+    <string name="category_torrents">تورنت</string>
+    <string name="category_other">أخرى</string>
+
+    <!-- Network & Status -->
+    <string name="status_downloading">جارٍ التنزيل</string>
+    <string name="status_paused">متوقف مؤقتاً</string>
+    <string name="status_offline_paused">غير متصل / متوقف</string>
+    <string name="status_completed">مكتمل</string>
+    <string name="status_failed">فشل</string>
+    <string name="status_queued">في الانتظار</string>
+    <string name="network_offline">غير متصل / خامل</string>
+    <string name="network_online">متصل</string>
+    <string name="network_disconnected_msg">انقطع الاتصال بالإنترنت. تم إيقاف التنزيلات مؤقتاً.</string>
+
+    <!-- MX Player -->
+    <string name="play_with_mx_player">تشغيل عبر MX Player</string>
+    <string name="mx_player_not_found">جاري التشغيل في المشغل الافتراضي (لم يتم العثور على MX Player)</string>
+
+    <!-- Torrent -->
+    <string name="torrent_downloader_title">أداة تنزيل ملفات التورنت</string>
+    <string name="torrent_input_placeholder">الصق رابط magnet:?xt=... أو رابط ملف .torrent</string>
+    <string name="torrent_download_btn">بدء تنزيل التورنت</string>
+    <string name="torrent_select_file">اختيار ملف .torrent محلي</string>
+    <string name="torrent_my_tasks">تنزيلات التورنت</string>
+    <string name="torrent_no_tasks">لا توجد ملفات تورنت في قائمة الانتظار</string>
+
+    <!-- Integrity & Hash -->
+    <string name="verify_hash">التحقق من تجزئة SHA-256</string>
+    <string name="calculating_hash">جارٍ حساب SHA-256...</string>
+    <string name="hash_copied">تم نسخ كود التجزئة SHA-256 إلى الحافظة</string>
+
+    <!-- Developer Credits & About -->
+    <string name="developer_credit">Developed by Omar Alrawi</string>
+    <string name="about_app_desc">OM IDM v2.0 • برنامج تسريع وإدارة التنزيلات فائق السرعة عبر الشبكة الحقيقية وتقسيم الحزم، وتنزيل ملفات التورنت، مع التصنيف التلقائي للمجلدات ومتصفح مدمج لاقتناص الروابط.</string>
+</resources>

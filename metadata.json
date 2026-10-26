@@ -1,0 +1,8 @@
+{
+  "name": "OM IDM",
+  "description": "Fast Internet Download Manager with multi-segment acceleration, BitTorrent file downloading, auto-folder sorting, and internal browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

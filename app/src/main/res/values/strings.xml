@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">OM IDM</string>
+    <string name="downloads_tab">Downloads</string>
+    <string name="torrents_tab">Torrent Downloader</string>
+    <string name="browser_tab">Browser</string>
+    <string name="settings_tab">Settings</string>
+    <string name="add_download">Add Download</string>
+    <string name="pause_all">Pause All</string>
+    <string name="resume_all">Resume All</string>
+    <string name="clear_completed">Clear Completed</string>
+    <string name="search_downloads">Search downloads...</string>
+    <string name="all_categories">All</string>
+    <string name="category_video">Videos</string>
+    <string name="category_audio">Audio</string>
+    <string name="category_documents">Documents</string>
+    <string name="category_archives">Archives</string>
+    <string name="category_torrents">Torrents</string>
+    <string name="category_other">Other</string>
+
+    <!-- Network & Status -->
+    <string name="status_downloading">Downloading</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_offline_paused">Offline / Paused</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_failed">Failed</string>
+    <string name="status_queued">Queued</string>
+    <string name="network_offline">Offline / Idle</string>
+    <string name="network_online">Online</string>
+    <string name="network_disconnected_msg">Network disconnected. Downloads paused.</string>
+
+    <!-- MX Player -->
+    <string name="play_with_mx_player">Play with MX Player</string>
+    <string name="mx_player_not_found">Opening in media player (MX Player not detected)</string>
+
+    <!-- Torrent -->
+    <string name="torrent_downloader_title">Torrent Files Downloader</string>
+    <string name="torrent_input_placeholder">Paste magnet:?xt=... or .torrent URL</string>
+    <string name="torrent_download_btn">Download Torrent Task</string>
+    <string name="torrent_select_file">Select Local .torrent File</string>
+    <string name="torrent_my_tasks">My Torrent Tasks</string>
+    <string name="torrent_no_tasks">No torrent files in queue</string>
+
+    <!-- Integrity & Hash -->
+    <string name="verify_hash">Verify SHA-256 Hash</string>
+    <string name="calculating_hash">Calculating SHA-256...</string>
+    <string name="hash_copied">SHA-256 hash copied to clipboard</string>
+
+    <!-- Developer Credits & About -->
+    <string name="developer_credit">Developed by Omar Alrawi</string>
+    <string name="about_app_desc">OM IDM v2.0 • High-Speed Internet Download Manager featuring real-network multi-segment chunk acceleration, BitTorrent file downloading, automatic folder organization, and internal sniffer browser.</string>
+</resources>

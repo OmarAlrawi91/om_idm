@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered clean modern Google-style download icon for Material You Android 13-17 themed icons -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C52.4,26 50.8,26.7 49.6,27.8 L33.4,43.2 C31.6,44.9 31.6,47.7 33.4,49.4 C35.2,51.1 38.1,51.1 39.8,49.4 L49.5,40.2 L49.5,70 C49.5,72.5 51.5,74.5 54,74.5 C56.5,74.5 58.5,72.5 58.5,70 L58.5,40.2 L68.2,49.4 C69.9,51.1 72.8,51.1 74.6,49.4 C76.4,47.7 76.4,44.9 74.6,43.2 L58.4,27.8 C57.2,26.7 55.6,26 54,26 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,77 C27.8,77 26,78.8 26,81 C26,83.2 27.8,85 30,85 L78,85 C80.2,85 82,83.2 82,81 C82,78.8 80.2,77 78,77 L30,77 Z" />
+</vector>
