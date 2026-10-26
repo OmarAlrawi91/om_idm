@@ -144,10 +144,9 @@ class TorrentEngine(
                 else -> throw IllegalArgumentException("Unsupported torrent source")
             }
 
-            val hash: Sha1Hash = Sha1Hash(
-    item.torrentInfoHash
-        ?: throw IllegalStateException("Missing info-hash")
-)
+            val hash: Sha1Hash = item.torrentInfoHash
+    ?.let { Sha1Hash(it) }
+    ?: throw IllegalStateException("Missing info-hash")
 
             // add is asynchronous: wait until the handle is registered
             var tries = 0
