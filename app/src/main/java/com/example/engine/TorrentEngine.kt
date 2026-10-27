@@ -145,7 +145,7 @@ class TorrentEngine(
             }
 
             val hash: Sha1Hash = item.torrentInfoHash
-    ?.let { Sha1Hash(it) }
+    ?.let { Sha1Hash.parseHex(it) }
     ?: throw IllegalStateException("Missing info-hash")
 
             // add is asynchronous: wait until the handle is registered
